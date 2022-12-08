@@ -4,5 +4,6 @@ public class day_1 {
     public static void main(String[] args) {
         System.out.println("hellllooooo");
         System.out.println("second line");
+        System.out.println("third line");
     }
 }
