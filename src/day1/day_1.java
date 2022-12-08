@@ -5,5 +5,6 @@ public class day_1 {
         System.out.println("hellllooooo");
         System.out.println("second line");
         System.out.println("third line");
+        System.out.println("last line");
     }
 }
